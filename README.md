@@ -2,6 +2,8 @@
  
 HTML, CSS, JavaScript 연습용 프로젝트
 
+https://jmk1007.github.io/mini-game/
+
 1. 자바스크립트를 이용하여 동적으로 데이터를 불러옵니다.
 2. 각각의 버튼을 누르면 아이템이 정렬됩니다.
 
